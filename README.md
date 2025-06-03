@@ -1,3 +1,23 @@
+### Targeting Screen
+![Targeting Screen](images/select_targeting.png "The app's main screen")
+![Targeting Screen With Selections](images/select_targeting_selected.png)
+
+### Channels Screen
+![Channels Screen](images/select_channel.png)
+![Channels Screen With Selected Campaigns](images/select_channel_selected.png)
+
+### Campaigns Screen
+![Campaigns Screen For Instagram](images/instagram_campaigns.png)
+
+### Review Selection Screen
+![Review Selection Screen](images/review_selection.png)
+![Review Selection Screen - Email Sent](images/review_selection_email_sent.png)
+![Review Selection Screen - Email Cancelled](images/review_selection_email_cancelled.png)
+
+### Email Bottom Sheet
+![Email Bottom Sheet](images/email.png)
+![Email Bottom Sheet - part 2](images/email_part2.png)
+
 # Marketing Campaign Selection App
 
 A SwiftUI iOS application that allows users to select marketing campaigns based on targeting specifics and channels, built with modern MVVM-C architecture and real API integration with timeout-based local file fallback. **Features clean separation of concerns: AppCoordinator handles only navigation, while ViewModels communicate directly with AppManager for state management.**
