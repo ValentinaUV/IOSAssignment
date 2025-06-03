@@ -6,8 +6,6 @@
 <img src="images/select_channel.PNG" width="200">
 <img src="images/select_channel_selected.PNG" width="200">
 <img src="images/instagram_campaigns.PNG" width="200">
-</p>
-<p>
 <img src="images/review_selection.PNG" width="200">
 <img src="images/review_selection_email_sent.PNG" width="200">
 <img src="images/review_selection_email_cancelled.PNG" width="200">
