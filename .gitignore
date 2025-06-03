@@ -15,9 +15,6 @@ xcuserdata/
 timeline.xctimeline
 playground.xcworkspace
 
-## Private configs
-Cupio/Configs/Production.private.xcconfig
-Cupio/Configs/Preprod.private.xcconfig
 
 # Swift Package Manager
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
