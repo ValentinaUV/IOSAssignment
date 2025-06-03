@@ -1,22 +1,22 @@
 ### Targeting Screen
-![Targeting Screen](images/select_targeting.png "The app's main screen")
-![Targeting Screen With Selections](images/select_targeting_selected.png)
+![Targeting Screen](images/select_targeting.PNG "The app's main screen")
+![Targeting Screen With Selections](images/select_targeting_selected.PNG)
 
 ### Channels Screen
-![Channels Screen](images/select_channel.png)
-![Channels Screen With Selected Campaigns](images/select_channel_selected.png)
+![Channels Screen](images/select_channel.PNG)
+![Channels Screen With Selected Campaigns](images/select_channel_selected.PNG)
 
 ### Campaigns Screen
-![Campaigns Screen For Instagram](images/instagram_campaigns.png)
+![Campaigns Screen For Instagram](images/instagram_campaigns.PNG)
 
 ### Review Selection Screen
-![Review Selection Screen](images/review_selection.png)
-![Review Selection Screen - Email Sent](images/review_selection_email_sent.png)
-![Review Selection Screen - Email Cancelled](images/review_selection_email_cancelled.png)
+![Review Selection Screen](images/review_selection.PNG)
+![Review Selection Screen - Email Sent](images/review_selection_email_sent.PNG)
+![Review Selection Screen - Email Cancelled](images/review_selection_email_cancelled.PNG)
 
 ### Email Bottom Sheet
-![Email Bottom Sheet](images/email.png)
-![Email Bottom Sheet - part 2](images/email_part2.png)
+![Email Bottom Sheet](images/email.PNG)
+![Email Bottom Sheet - part 2](images/email_part2.PNG)
 
 # Marketing Campaign Selection App
 
